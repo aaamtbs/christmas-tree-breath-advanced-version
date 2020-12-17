@@ -1,0 +1,22 @@
+{
+    "name": "Christmas tree breath (advanced version)",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "aaam-tbs-christmas-tree": "github:aaamtbs/aaam-tbs-christmas-tree#v0.3.21"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
